@@ -1,0 +1,2 @@
+# Kubanetes-Deployment-Exercise01
+KubanetesのDeploymentに関するお試し
